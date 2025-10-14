@@ -1,9 +1,9 @@
 PREMESSA:
-Codice generato da Chat GPT (Non sono un programmatore),
-Siete liberi di riutilizzare il codice migliorandolo
-Il Car Audio è un tema assai complesso e quindi potrebbero esserci errori di formule, calcoli o semplicemente opinioni diverse
-Per correzioni o suggerimenti e anche opinioni non esitate a lasciare un commento 
-Le versioni "Win11" sono compilate con "PYQT6" mentre le normali con "Tkinter"
+Codice generato da Chat GPT (Non sono un programmatore);
+Siete liberi di riutilizzare il codice migliorandolo;
+Il Car Audio è un tema assai complesso e quindi potrebbero esserci errori di formule, calcoli o semplicemente opinioni diverse;
+Per correzioni o suggerimenti e anche opinioni non esitate a lasciare un commento;
+Le versioni "Win11" sono compilate con "PYQT6" mentre le normali con "Tkinter".
 
 FUNZIONI:
 NET OHMninator: trova le combinazioni di altoparlanti(ohm) possibili per raggiungere un obbiettivo di ohm e mostra il rispettivo collegamento serie (S) o parallelo (P).
