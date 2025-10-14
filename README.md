@@ -12,7 +12,7 @@ NET OHMninator: trova le combinazioni di altoparlanti(ohm) possibili per raggiun
 
 Futuri Aggiornamenti: Schema piu intuitivo, calcolo spartizione watt tra altoparlanti con diversi ohm tramite input watt rms.
 
-CCA Dimensioner: calcola la sezione del cavo di alimentazione dell'amplificatore tenendo conto di distanza, watt rms, classe amplificatore, caduta di tensione permessa, tensione nominale e il tipo di utilizzo (prestare attenzione a non sottodimensionare l'impianto!!!), inoltre da delle valutazioni su batteria, alternatore e condensatore.
+CCA Dimensioner: calcola la sezione del cavo di alimentazione dell'amplificatore tenendo conto di distanza, watt rms, classe amplificatore, caduta di tensione permessa, tensione nominale e il tipo di utilizzo crest factor (prestare attenzione a non sottodimensionare l'impianto!!!), inoltre da delle valutazioni su batteria, alternatore e condensatore.
 *il parametro utilizzo realistico sarebbe da valutare con un tecnico professionista e nel caso rivalutare le diciture delle varie percentuali (per dubbi rivolgersi ad un installatore).
 
 <img width="1202" height="812" alt="nw" src="https://github.com/user-attachments/assets/5d29e604-094a-42a2-808f-0ace70003699" />
