@@ -5,6 +5,8 @@ Il Car Audio è un tema assai complesso e quindi potrebbero esserci errori di fo
 Per correzioni o suggerimenti e anche opinioni non esitate a lasciare un commento;
 Le versioni "Win11" sono compilate con "PYQT6" mentre le normali con "Tkinter".
 
+MUSIC: Maktone - Armor of god; RELOADED - Need For Speed Underground 2 kg - (Reloaded Keygen #1)
+
 FUNZIONI:
 NET OHMninator: trova le combinazioni di altoparlanti(ohm) possibili per raggiungere un obbiettivo di ohm e mostra il rispettivo collegamento serie (S) o parallelo (P).
 
