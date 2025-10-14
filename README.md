@@ -11,10 +11,10 @@ CCA Dimensioner: calcola la sezione del cavo di alimentazione dell'amplificatore
 *il parametro utilizzo realistico sarebbe da valutare con un tecnico professionista e nel caso rivalutare le diciture delle varie percentuali (per dubbi rivolgersi ad un installatore).
 
 <img width="1202" height="812" alt="nw" src="https://github.com/user-attachments/assets/5d29e604-094a-42a2-808f-0ace70003699" />
-NET OHMninator WIN10/11
+
 <img width="822" height="932" alt="cw" src="https://github.com/user-attachments/assets/63bc017d-41ec-4135-aa62-09e1fe87762a" />
-CCA Dimensioner WIN10/11
+
 <img width="1202" height="812" alt="nl" src="https://github.com/user-attachments/assets/db9208dd-7fb9-488f-b1e3-1b8c53e0ba0e" />
-NET OHMninator 
+
 <img width="822" height="932" alt="cl" src="https://github.com/user-attachments/assets/c1259ee1-af8f-4838-8a0d-037710964793" />
-CCA Dimensioner
+
