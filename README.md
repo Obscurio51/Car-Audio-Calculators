@@ -8,7 +8,7 @@ Le versioni "Win11" sono compilate con "PYQT6" mentre le normali con "Tkinter" (
 MUSIC: Maktone - Armor of god; RELOADED - Need For Speed Underground 2 kg - (Reloaded Keygen #1)
 
 FUNZIONI:
-NET OHMninator: trova le combinazioni di altoparlanti(ohm) possibili per raggiungere un obbiettivo di ohm e mostra il rispettivo collegamento serie (S) o parallelo (P).
+The OHMninator: trova le combinazioni di altoparlanti(ohm) possibili per raggiungere un obbiettivo di ohm, mostra il rispettivo collegamento serie (S) o parallelo (P) e calcola lo spartimento di potenxa in base un input (watt).
 
 Futuri Aggiornamenti: Schema piu intuitivo, calcolo spartizione watt tra altoparlanti con diversi ohm tramite input watt rms.
 
