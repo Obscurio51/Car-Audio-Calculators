@@ -17,10 +17,6 @@ CCA Dimensioner: calcola la sezione del cavo di alimentazione dell'amplificatore
 
 <img width="822" height="932" alt="cw" src="https://github.com/user-attachments/assets/63bc017d-41ec-4135-aa62-09e1fe87762a" />
 
-<img width="1202" height="812" alt="Catturha" src="https://github.com/user-attachments/assets/29c87da5-9ac3-430e-b5d3-e2636f8ad179" />
-
-<img width="822" height="932" alt="cl" src="https://github.com/user-attachments/assets/c1259ee1-af8f-4838-8a0d-037710964793" />
-
 <img width="1096" height="2560" alt="Screenshot_20251022-034333" src="https://github.com/user-attachments/assets/15f10d99-1549-451d-a48e-fba7e2703466" />
 
 <img width="1096" height="2560" alt="Screenshot_20251022-034359" src="https://github.com/user-attachments/assets/0c126f08-d2bb-43bd-b705-c876d430a314" />
