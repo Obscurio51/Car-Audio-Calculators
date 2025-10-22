@@ -1,5 +1,5 @@
 PREMESSA:
-Codice generato da Chat GPT (Non sono un programmatore);
+Codice generato da Chat GPT e GEMINI(per android) (Non sono un programmatore);
 Siete liberi di riutilizzare il codice migliorandolo;
 Il Car Audio è un tema assai complesso e quindi potrebbero esserci errori di formule e calcoli o semplicemente opinioni diverse;
 Per correzioni o suggerimenti e anche opinioni non esitate a lasciare un commento;
