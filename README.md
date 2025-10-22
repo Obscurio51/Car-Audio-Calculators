@@ -10,8 +10,6 @@ MUSIC: Maktone - Armor of god; RELOADED - Need For Speed Underground 2 kg - (Rel
 FUNZIONI:
 The OHMninator: trova le combinazioni di altoparlanti(ohm) possibili per raggiungere un obbiettivo di ohm, mostra il rispettivo collegamento serie (S) o parallelo (P) e calcola lo spartimento di potenxa in base un input (watt).
 
-Futuri Aggiornamenti: Schema piu intuitivo, Android porting (apk).
-
 CCA Dimensioner: calcola la sezione del cavo di alimentazione dell'amplificatore tenendo conto di distanza, watt rms, classe amplificatore, caduta di tensione permessa, tensione nominale e il tipo di utilizzo crest factor (prestare attenzione a non sottodimensionare l'impianto!!!), inoltre da delle valutazioni su batteria, alternatore e condensatore.
 *il parametro utilizzo realistico sarebbe da valutare con un tecnico professionista e nel caso rivalutare le diciture delle varie percentuali (per dubbi rivolgersi ad un installatore).
 
