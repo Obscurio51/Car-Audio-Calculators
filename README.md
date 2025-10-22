@@ -3,7 +3,8 @@ Codice generato da Chat GPT e GEMINI(per android) (Non sono un programmatore);
 Siete liberi di riutilizzare il codice migliorandolo;
 Il Car Audio è un tema assai complesso e quindi potrebbero esserci errori di formule e calcoli o semplicemente opinioni diverse;
 Per correzioni o suggerimenti e anche opinioni non esitate a lasciare un commento;
-Le versioni "Win11" sono compilate con "PYQT6" mentre le normali con "Tkinter" (le funzioni sono le stesse).
+
+Futuri aggiornamenti: revisione calcolo condensatore portare a 1farad ogni 1000w? oppure elaborare calcolo piu avanzato.
 
 MUSIC: Maktone - Armor of god; RELOADED - Need For Speed Underground 2 kg - (Reloaded Keygen #1)
 
