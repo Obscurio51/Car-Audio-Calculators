@@ -14,16 +14,6 @@ The OHMninator: trova le combinazioni di altoparlanti(ohm) possibili per raggiun
 CCA Dimensioner: calcola la sezione del cavo di alimentazione dell'amplificatore tenendo conto di distanza, watt rms, classe amplificatore, caduta di tensione permessa, tensione nominale e il tipo di utilizzo crest factor (prestare attenzione a non sottodimensionare l'impianto!!!), inoltre da delle valutazioni su batteria, alternatore e condensatore.
 *il parametro utilizzo realistico sarebbe da valutare con un tecnico professionista e nel caso rivalutare le diciture delle varie percentuali (per dubbi rivolgersi ad un installatore).
 
-<img width="1202" height="812" alt="Cattura" src="https://github.com/user-attachments/assets/01b1fb08-ccf7-4aa4-b2c7-c4b579aec116" />
-
-<img width="822" height="932" alt="cw" src="https://github.com/user-attachments/assets/63bc017d-41ec-4135-aa62-09e1fe87762a" />
-
-<img width="1096" height="2560" alt="Screenshot_20251022-034333" src="https://github.com/user-attachments/assets/15f10d99-1549-451d-a48e-fba7e2703466" />
-
-<img width="1096" height="2560" alt="Screenshot_20251022-235722" src="https://github.com/user-attachments/assets/68d19667-17ab-4882-86d1-634bb1bec32a" />
-
-<img width="1096" height="2560" alt="Screenshot_20251022-034344" src="https://github.com/user-attachments/assets/b2b8763c-3b18-4989-bf6b-2d5129bbe317" />
-
-<img width="1096" height="2560" alt="Screenshot_20251022-034349" src="https://github.com/user-attachments/assets/c5bb3002-402a-4705-afa5-26cf3f3c76f0" />
-
-
+<img width="1202" height="812" alt="CCO" src="https://github.com/user-attachments/assets/72053d86-240f-4322-9950-6b0acf712687" />
+<img width="1188" height="1012" alt="SCA" src="https://github.com/user-attachments/assets/4e286366-004e-42e6-adb6-627244639526" />
+<img width="1182" height="882" alt="CAA" src="https://github.com/user-attachments/assets/f57093ad-1831-4e6b-9b05-85943dcf1d33" />
