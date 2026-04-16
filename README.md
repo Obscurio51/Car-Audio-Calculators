@@ -4,8 +4,6 @@ Siete liberi di riutilizzare il codice migliorandolo;
 Il Car Audio è un tema assai complesso e quindi potrebbero esserci errori di formule e calcoli, o semplicemente opinioni diverse;
 Per correzioni, suggerimenti e opinioni non esitate a lasciare un commento;
 
-Futuri aggiornamenti: revisione calcolo condensatore portare a 1farad ogni 1000w? oppure elaborare calcolo piu avanzato.
-
 MUSIC: Maktone - Armor of god; RELOADED - Need For Speed Underground 2 kg - (Reloaded Keygen #1); HoG Warcraft III - Reign of Chaos 1.24e +4 trn
 
 FUNZIONI:
