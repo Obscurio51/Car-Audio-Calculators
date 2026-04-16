@@ -1,3 +1,5 @@
+<img width="2000" height="512" alt="header" src="https://github.com/user-attachments/assets/0fb400c7-446d-4f8c-bce8-3a85854d0b3f" />
+
 PREMESSA:
 Codice generato da varie IA (Non sono un programmatore);
 Siete liberi di riutilizzare il codice migliorandolo;
