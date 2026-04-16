@@ -16,6 +16,6 @@ CAA: calcola la sezione del cavo di alimentazione dell'amplificatore tenendo con
 
 SCA: calcola la sezione dei cavi degli altoparlanti tenendo conto di: caduta tensione, materiale cavo, lunghezza, tipo altoparlante (caduta tensione consentita) e impedenza
 
-<img width="1202" height="812" alt="CCO" src="https://github.com/user-attachments/assets/72053d86-240f-4322-9950-6b0acf712687" />
+<img width="1202" height="812" alt="Catturacc0" src="https://github.com/user-attachments/assets/0cde4a2e-17ef-43ec-997b-2467a082b8ad" />
 <img width="1188" height="1012" alt="SCA" src="https://github.com/user-attachments/assets/4e286366-004e-42e6-adb6-627244639526" />
 <img width="1182" height="882" alt="CAA" src="https://github.com/user-attachments/assets/f57093ad-1831-4e6b-9b05-85943dcf1d33" />
