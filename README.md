@@ -17,6 +17,7 @@ SCA: calcola la sezione dei cavi degli altoparlanti tenendo conto di: caduta ten
 
 <img width="1202" height="812" alt="Catturacc0" src="https://github.com/user-attachments/assets/0cde4a2e-17ef-43ec-997b-2467a082b8ad" />
 <img width="1188" height="1012" alt="SCA" src="https://github.com/user-attachments/assets/4e286366-004e-42e6-adb6-627244639526" />
-<img width="1182" height="882" alt="CatturaCCCA" src="https://github.com/user-attachments/assets/a2cb5171-5042-4f5b-8287-49dc2312451a" />
+<img width="1182" height="882" alt="C AAC" src="https://github.com/user-attachments/assets/b560d1f2-08d2-4997-967f-e0c75cc1ff27" />
+
 
 
