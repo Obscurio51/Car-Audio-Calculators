@@ -7,6 +7,7 @@ Per correzioni, suggerimenti e opinioni non esitate a lasciare un commento;
 MUSIC: Maktone - Armor of god; RELOADED - Need For Speed Underground 2 kg - (Reloaded Keygen #1); HoG Warcraft III - Reign of Chaos 1.24e +4 trn
 
 FUNZIONI:
+
 CCO (The OHMninator): trova le combinazioni di altoparlanti(ohm) possibili per raggiungere un obbiettivo di ohm, mostra il rispettivo collegamento serie (S) o parallelo (P) e calcola lo spartimento di potenza in base a un input (watt).
 
 CAA: calcola la sezione del cavo di alimentazione dell'amplificatore tenendo conto di distanza, watt rms, classe amplificatore, caduta di tensione permessa, tensione nominale e il tipo di utilizzo crest factor (prestare attenzione a non sottodimensionare l'impianto!!!), inoltre da delle valutazioni su batteria, alternatore e condensatore.
