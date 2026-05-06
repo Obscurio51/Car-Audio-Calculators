@@ -12,7 +12,10 @@ FUNZIONI:
 
 CCO (The OHMninator): trova le combinazioni di altoparlanti(ohm) possibili per raggiungere un obbiettivo di ohm, mostra il rispettivo collegamento serie (S) o parallelo (P) e calcola lo spartimento di potenza in base a un input (watt).
 
-CAA: calcola la sezione del cavo di alimentazione dell'amplificatore tenendo conto di distanza, watt rms, classe amplificatore, caduta di tensione permessa, tensione nominale e il tipo di utilizzo crest factor (prestare attenzione a non sottodimensionare l'impianto!!!), inoltre da delle valutazioni su batteria, alternatore e condensatore.
+CAA: calcola la sezione del cavo di alimentazione dell'amplificatore tenendo conto di distanza, watt rms, classe amplificatore, caduta di tensione permessa, tensione nominale e il tipo di utilizzo crest factor (prestare attenzione a non sottodimensionare l'impianto!!!).
+
+BAT: stima la capacità necessaria della batteria per soddisfare una certa riproduzione musicale per un certo minutaggio (x scegliere la batteria adeguata)
+
 *il parametro utilizzo realistico sarebbe da valutare con un tecnico professionista e nel caso rivalutare le diciture delle varie percentuali (per dubbi rivolgersi ad un installatore).
 
 SCA: calcola la sezione dei cavi degli altoparlanti tenendo conto di: caduta tensione, materiale cavo, lunghezza, tipo altoparlante (caduta tensione consentita) e impedenza
