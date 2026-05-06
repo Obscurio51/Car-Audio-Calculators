@@ -16,7 +16,7 @@ CAA: calcola la sezione del cavo di alimentazione dell'amplificatore tenendo con
 
 BAT: stima la capacità necessaria della batteria per soddisfare una certa riproduzione musicale per un certo minutaggio (x scegliere la batteria adeguata)
 
-*il parametro utilizzo realistico in CAA e BAT sarebbe da valutare con un tecnico professionista e nel caso rivalutare le diciture delle varie percentuali (per dubbi rivolgersi ad un installatore).
+*il parametro utilizzo realistico in CAA e BAT sarebbe da valutare con un tecnico professionista e nel caso potrei rivalutare le diciture delle varie percentuali (per dubbi rivolgersi ad un installatore).
 
 SCA: calcola la sezione dei cavi degli altoparlanti tenendo conto di: caduta tensione, materiale cavo, lunghezza, tipo altoparlante (caduta tensione consentita) e impedenza
 
