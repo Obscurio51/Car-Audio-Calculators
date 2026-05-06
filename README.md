@@ -6,7 +6,7 @@ Siete liberi di riutilizzare il codice migliorandolo;
 Il Car Audio è un tema assai complesso e quindi potrebbero esserci errori di formule e calcoli, o semplicemente opinioni diverse;
 Per correzioni, suggerimenti e opinioni non esitate a lasciare un commento;
 
-MUSIC: Maktone - Armor of god; RELOADED - Need For Speed Underground 2 kg - (Reloaded Keygen #1); HoG Warcraft III - Reign of Chaos 1.24e +4 trn
+MUSIC: Maktone - Armor of god; RELOADED - Need For Speed Underground 2 kg - (Reloaded Keygen #1); HoG Warcraft III - Reign of Chaos 1.24e +4 trn; Afterburner
 
 FUNZIONI:
 
